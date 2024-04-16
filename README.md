@@ -1,3 +1,5 @@
+![Gif Portada](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNhZmpvNG52bG5rczIweTE2bHA4ZWw3dHlqYmRzb2xuMjgyZTY3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif)
+
 # ¡Hola! Soy Manuel David 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador de aplicaciones web actualmente en prácticas en Atmira.
