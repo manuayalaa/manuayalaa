@@ -4,7 +4,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador de aplicaciones web actualmente en prácticas en Atmira.
 
-## 📚 Sobre mí <img src="https://i.imgur.com/Lw96V5H.png" title="source: imgur.com" width="80" height="80"  />
+## <img src="https://i.imgur.com/XgG1Ide.png" title="source: imgur.com" width="40" height="40" /> Sobre mí 
 
 - 🎓 Estudié Desarrollo de Aplicaciones Web en el IES Gran Capitán.
 - 💼 Actualmente estoy adquiriendo experiencia en atmira como desarrollador en prácticas.
