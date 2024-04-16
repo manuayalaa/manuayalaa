@@ -41,5 +41,7 @@ Si estás interesado en colaborar en algún proyecto o simplemente quieres charl
 ## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=manuayalaa&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=manuayalaa&layout=compact)
+
 
 ¡Gracias por visitar mi perfil! 😄
